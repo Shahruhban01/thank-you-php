@@ -342,6 +342,7 @@ Signed,
 - Roman Shvykov ([@shvykov](https://github.com/shvykov)), Backend Developer, Russia
 - Roman Varkuta ([@KartaviK](https://github.com/KartaviK)), Back-end developer, Ukraine
 - Roshan Budhathoki ([@roshanbudhathoki](https://github.com/roshanbudhathoki)), Full Stack Developer, Nepal
+- Ruhban Abdullah ([@shahruhban01](https://github.com/shahruhban01)), Self-taught JS and PHP developer from Kashmir
 - Rumon ([@msrumon](https://github.com/msrumon)), Self-taught JS and PHP developer from Bangladesh
 - Rustam Mamadaminov ([@rustamwin](https://github.com/rustamwin)), Fullstack Web Developer, Uzbekistan
 - Ryugen XD ([@ryugenxd](https://github.com/ryugenxd)), Junior Fullstack Web Developer, Indonesia
